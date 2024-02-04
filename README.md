@@ -10,6 +10,7 @@
 
 ### Решение
 [Код программы](/GeometryLibrary)
+
 Пример работы библиотеки
 ```cs
 // Вычисление площади круга
@@ -34,7 +35,9 @@ Console.WriteLine($"Треугольник со сторонами {side1}, {sid
 
 ### Решение
 [DDL](/SQL/DDL.sql)
+
 [DML](/SQL/DML.sql)
+
 ```sql
 SELECT p.[Name] [Product Name]
        , ISNULL(pc.[Name], '') [Category Name]
